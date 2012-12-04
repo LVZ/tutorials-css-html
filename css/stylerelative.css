@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.wrap {
+  width: 800px;
+  height: 1000px;
+  margin: auto;
+  position: relative;
+  background: grey;
+
+}
+
+.box {
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  background: red;
+  position: absolute;
+  left: -35px; top: 30px;
+}

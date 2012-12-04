@@ -1,0 +1,30 @@
+.wrap {
+
+}
+
+.right {
+  padding-left: 250px;
+  padding-right: 500px;
+  padding-top: 50px;
+}
+
+.left {
+  margin: 0;
+
+}
+
+img {
+  width: 13%;
+  height: 14%;
+}
+
+li {
+  display: inline;
+  padding-right: 10px;
+
+}
+
+li a {
+  color: green;
+  text-decoration: none;
+}
